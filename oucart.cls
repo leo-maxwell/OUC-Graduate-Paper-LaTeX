@@ -26,6 +26,7 @@
 \pagestyle{fancy}
 
 \RequirePackage{assets/cover}
+\RequirePackage{assets/coveror}
 \RequirePackage{assets/abstractkeywords}
 \RequirePackage{assets/signature}
 
