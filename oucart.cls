@@ -104,7 +104,7 @@
             {}
 \titleformat{\subsubsection}
             {\zihao{4}\heiti\raggedright}
-            {\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}{1em}
+            {\HeiDigits\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}{1em}
             {}
 % 修改目录样式
 \titlecontents{section}
